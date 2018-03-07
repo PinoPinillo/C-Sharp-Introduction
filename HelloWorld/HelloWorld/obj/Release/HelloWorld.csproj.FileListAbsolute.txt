@@ -1,0 +1,7 @@
+C:\Users\Alejandro\Desktop\Alejandro\Club.NET y UNIA\Taller Introducción C# - Curso 17-18\HelloWorld\HelloWorld\bin\Release\HelloWorld.exe.config
+C:\Users\Alejandro\Desktop\Alejandro\Club.NET y UNIA\Taller Introducción C# - Curso 17-18\HelloWorld\HelloWorld\bin\Release\HelloWorld.exe
+C:\Users\Alejandro\Desktop\Alejandro\Club.NET y UNIA\Taller Introducción C# - Curso 17-18\HelloWorld\HelloWorld\bin\Release\HelloWorld.pdb
+C:\Users\Alejandro\Desktop\Alejandro\Club.NET y UNIA\Taller Introducción C# - Curso 17-18\HelloWorld\HelloWorld\obj\Release\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\Alejandro\Club.NET y UNIA\Taller Introducción C# - Curso 17-18\HelloWorld\HelloWorld\obj\Release\HelloWorld.exe
+C:\Users\Alejandro\Desktop\Alejandro\Club.NET y UNIA\Taller Introducción C# - Curso 17-18\HelloWorld\HelloWorld\obj\Release\HelloWorld.pdb
+C:\Users\Alejandro\Desktop\Alejandro\Club.NET y UNIA\Taller Introducción C# - Curso 17-18\HelloWorld\HelloWorld\obj\Release\HelloWorld.csprojResolveAssemblyReference.cache

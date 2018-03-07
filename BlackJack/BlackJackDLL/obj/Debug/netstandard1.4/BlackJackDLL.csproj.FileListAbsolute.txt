@@ -1,0 +1,8 @@
+C:\Users\Alejandro\Desktop\Alejandro\Club.NET y UNIA\Taller Introducción C# - Curso 17-18\BlackJack\BlackJackDLL\bin\Debug\netstandard1.4\BlackJackDLL.deps.json
+C:\Users\Alejandro\Desktop\Alejandro\Club.NET y UNIA\Taller Introducción C# - Curso 17-18\BlackJack\BlackJackDLL\bin\Debug\netstandard1.4\BlackJackDLL.dll
+C:\Users\Alejandro\Desktop\Alejandro\Club.NET y UNIA\Taller Introducción C# - Curso 17-18\BlackJack\BlackJackDLL\bin\Debug\netstandard1.4\BlackJackDLL.pdb
+C:\Users\Alejandro\Desktop\Alejandro\Club.NET y UNIA\Taller Introducción C# - Curso 17-18\BlackJack\BlackJackDLL\obj\Debug\netstandard1.4\BlackJackDLL.csprojResolveAssemblyReference.cache
+C:\Users\Alejandro\Desktop\Alejandro\Club.NET y UNIA\Taller Introducción C# - Curso 17-18\BlackJack\BlackJackDLL\obj\Debug\netstandard1.4\BlackJackDLL.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\Alejandro\Club.NET y UNIA\Taller Introducción C# - Curso 17-18\BlackJack\BlackJackDLL\obj\Debug\netstandard1.4\BlackJackDLL.AssemblyInfo.cs
+C:\Users\Alejandro\Desktop\Alejandro\Club.NET y UNIA\Taller Introducción C# - Curso 17-18\BlackJack\BlackJackDLL\obj\Debug\netstandard1.4\BlackJackDLL.dll
+C:\Users\Alejandro\Desktop\Alejandro\Club.NET y UNIA\Taller Introducción C# - Curso 17-18\BlackJack\BlackJackDLL\obj\Debug\netstandard1.4\BlackJackDLL.pdb
